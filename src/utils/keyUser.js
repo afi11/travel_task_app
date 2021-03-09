@@ -1,0 +1,2 @@
+export const admin_key = "fc06e967fedafa408424e48d678d70062c6219273d95eb66629af7d56aae4a74"
+export const pegawai_key = "b0d91883f4df9c35cea45babb322822aede97b5a1550e6cd18f6aeed58a01d62"
